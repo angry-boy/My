@@ -13,6 +13,8 @@
 		342FA39E1C5C4A26005B132B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 342FA39C1C5C4A26005B132B /* Main.storyboard */; };
 		342FA3A01C5C4A26005B132B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 342FA39F1C5C4A26005B132B /* Assets.xcassets */; };
 		342FA3A31C5C4A26005B132B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 342FA3A11C5C4A26005B132B /* LaunchScreen.storyboard */; };
+		342FA3AB1C5C4D81005B132B /* userGuide_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 342FA3AA1C5C4D81005B132B /* userGuide_1.jpg */; };
+		342FA3AD1C5C4E23005B132B /* iconfont-20qianjin.png in Resources */ = {isa = PBXBuildFile; fileRef = 342FA3AC1C5C4E23005B132B /* iconfont-20qianjin.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		342FA39F1C5C4A26005B132B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		342FA3A21C5C4A26005B132B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		342FA3A41C5C4A26005B132B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		342FA3AA1C5C4D81005B132B /* userGuide_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = userGuide_1.jpg; sourceTree = "<group>"; };
+		342FA3AC1C5C4E23005B132B /* iconfont-20qianjin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfont-20qianjin.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 		342FA3921C5C4A26005B132B /* MyWeatherGuide */ = {
 			isa = PBXGroup;
 			children = (
+				342FA3AA1C5C4D81005B132B /* userGuide_1.jpg */,
+				342FA3AC1C5C4E23005B132B /* iconfont-20qianjin.png */,
 				342FA3961C5C4A26005B132B /* AppDelegate.h */,
 				342FA3971C5C4A26005B132B /* AppDelegate.m */,
 				342FA3991C5C4A26005B132B /* ViewController.h */,
@@ -137,9 +143,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				342FA3AD1C5C4E23005B132B /* iconfont-20qianjin.png in Resources */,
 				342FA3A31C5C4A26005B132B /* LaunchScreen.storyboard in Resources */,
 				342FA3A01C5C4A26005B132B /* Assets.xcassets in Resources */,
 				342FA39E1C5C4A26005B132B /* Main.storyboard in Resources */,
+				342FA3AB1C5C4D81005B132B /* userGuide_1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
